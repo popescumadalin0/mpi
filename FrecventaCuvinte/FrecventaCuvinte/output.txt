@@ -1,0 +1,5 @@
+The word 'ana' appears '1' times
+The word 'are' appears '2' times
+The word 'mere' appears '1' times
+The word 'pere' appears '1' times
+The word 'si' appears '1' times
