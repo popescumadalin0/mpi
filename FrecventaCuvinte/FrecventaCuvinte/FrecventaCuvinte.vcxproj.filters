@@ -26,5 +26,11 @@
     <Text Include="output.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="large_input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="large_output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

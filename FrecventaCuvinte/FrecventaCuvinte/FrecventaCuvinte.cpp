@@ -3,8 +3,8 @@
 #include <string>
 #include <fstream>
 
-#define INPUT "input.txt"
-#define OUTPUT "output.txt"
+#define INPUT "large_input.txt"
+#define OUTPUT "large_output.txt"
 
 using namespace std;
 
