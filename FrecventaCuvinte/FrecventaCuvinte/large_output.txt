@@ -1,454 +1,454 @@
-The word '"The' appears '10' times
-The word '5000' appears '10' times
-The word 'Academy,' appears '10' times
-The word 'Additionally,' appears '20' times
-The word 'Advances' appears '10' times
-The word 'Airbnb,' appears '10' times
-The word 'Amazon' appears '10' times
-The word 'As' appears '10' times
-The word 'Automation' appears '10' times
-The word 'CT' appears '10' times
-The word 'Certainly!' appears '10' times
-The word 'Classroom,' appears '10' times
-The word 'Communication' appears '10' times
-The word 'Coursera' appears '10' times
-The word 'Culture' appears '10' times
-The word 'Digital' appears '20' times
-The word 'E-commerce' appears '10' times
-The word 'Economy' appears '10' times
-The word 'Education' appears '10' times
-The word 'Facebook,' appears '10' times
-The word 'Finally,' appears '10' times
-The word 'From' appears '10' times
-The word 'Furthermore,' appears '20' times
-The word 'Google' appears '10' times
-The word 'Healthcare' appears '10' times
-The word 'Here's' appears '10' times
-The word 'However,' appears '60' times
-The word 'Hulu,' appears '10' times
-The word 'Impact' appears '20' times
-The word 'In' appears '60' times
-The word 'Instagram' appears '10' times
-The word 'Khan' appears '10' times
-The word 'MRI' appears '10' times
-The word 'Moreover,' appears '20' times
-The word 'Netflix,' appears '10' times
-The word 'One' appears '10' times
-The word 'Platforms' appears '10' times
-The word 'Snapchat' appears '10' times
-The word 'Social' appears '20' times
-The word 'Society' appears '10' times
-The word 'Society":' appears '10' times
-The word 'Spotify' appears '10' times
-The word 'TaskRabbit,' appears '10' times
-The word 'Technology' appears '30' times
-The word 'Telemedicine' appears '10' times
-The word 'The' appears '70' times
-The word 'These' appears '10' times
-The word 'TikTok,' appears '10' times
-The word 'Twitter,' appears '10' times
-The word 'Uber,' appears '10' times
-The word 'Western' appears '10' times
-The word 'While' appears '10' times
-The word 'YouTube,' appears '10' times
-The word 'a' appears '80' times
-The word 'about' appears '60' times
-The word 'access' appears '50' times
-The word 'accessible' appears '10' times
-The word 'accuracy' appears '10' times
-The word 'acquire' appears '10' times
-The word 'across' appears '10' times
-The word 'adopted' appears '10' times
-The word 'adoption' appears '10' times
-The word 'advancements' appears '30' times
-The word 'advent' appears '10' times
-The word 'all' appears '10' times
-The word 'allowing' appears '50' times
-The word 'along' appears '10' times
-The word 'also' appears '100' times
-The word 'among' appears '20' times
-The word 'an' appears '10' times
-The word 'and' appears '670' times
-The word 'another.' appears '20' times
-The word 'anytime,' appears '10' times
-The word 'anywhere.' appears '10' times
-The word 'apps' appears '10' times
-The word 'are' appears '20' times
-The word 'areas' appears '10' times
-The word 'around' appears '10' times
-The word 'art' appears '10' times
-The word 'artificial' appears '10' times
-The word 'as' appears '40' times
-The word 'attention' appears '10' times
-The word 'audience.' appears '10' times
-The word 'autonomy,' appears '10' times
-The word 'barriers,' appears '10' times
-The word 'become' appears '10' times
-The word 'been' appears '10' times
-The word 'before,' appears '10' times
-The word 'behavior' appears '10' times
-The word 'being' appears '10' times
-The word 'benefits' appears '10' times
-The word 'benefits,' appears '10' times
-The word 'betterment' appears '10' times
-The word 'between' appears '10' times
-The word 'blurring' appears '10' times
-The word 'boundaries' appears '10' times
-The word 'brick-and-mortar' appears '10' times
-The word 'brings' appears '10' times
-The word 'brought' appears '10' times
-The word 'business.' appears '10' times
-The word 'businesses' appears '10' times
-The word 'but' appears '40' times
-The word 'by' appears '20' times
-The word 'can' appears '10' times
-The word 'care.' appears '10' times
-The word 'challenge,' appears '10' times
-The word 'challenges' appears '20' times
-The word 'changed' appears '20' times
-The word 'changes' appears '10' times
-The word 'children's' appears '10' times
-The word 'children,' appears '10' times
-The word 'classroom' appears '10' times
-The word 'collaborate' appears '10' times
-The word 'collaboration' appears '10' times
-The word 'collection' appears '10' times
-The word 'comfort' appears '10' times
-The word 'communicate' appears '20' times
-The word 'communicate,' appears '10' times
-The word 'communication' appears '20' times
-The word 'communication,' appears '20' times
-The word 'communication.' appears '10' times
-The word 'concerns' appears '30' times
-The word 'concerns.' appears '10' times
-The word 'conclusion,' appears '10' times
-The word 'conditions' appears '10' times
-The word 'conduct' appears '10' times
-The word 'confidentiality' appears '10' times
-The word 'connect' appears '10' times
-The word 'connected,' appears '10' times
-The word 'connectivity' appears '10' times
-The word 'consider' appears '10' times
-The word 'consult' appears '10' times
-The word 'consume' appears '20' times
-The word 'consumer' appears '10' times
-The word 'consumers' appears '10' times
-The word 'content' appears '20' times
-The word 'continue' appears '10' times
-The word 'control' appears '10' times
-The word 'costs,' appears '10' times
-The word 'countries' appears '10' times
-The word 'courses,' appears '10' times
-The word 'create' appears '10' times
-The word 'creation,' appears '10' times
-The word 'creatively.' appears '10' times
-The word 'crucial' appears '10' times
-The word 'cultural' appears '10' times
-The word 'culture' appears '20' times
-The word 'culture,' appears '10' times
-The word 'culture.' appears '10' times
-The word 'cyberbullying,' appears '10' times
-The word 'data' appears '20' times
-The word 'decline' appears '10' times
-The word 'democratization' appears '10' times
-The word 'democratized' appears '10' times
-The word 'development' appears '10' times
-The word 'devices' appears '30' times
-The word 'devices,' appears '10' times
-The word 'diagnose' appears '10' times
-The word 'diagnosis,' appears '10' times
-The word 'different' appears '10' times
-The word 'digital' appears '20' times
-The word 'diseases' appears '10' times
-The word 'disparities.' appears '10' times
-The word 'displacement' appears '10' times
-The word 'distances.' appears '10' times
-The word 'distributed.' appears '10' times
-The word 'disturbances,' appears '10' times
-The word 'divide' appears '10' times
-The word 'dominant' appears '10' times
-The word 'driving' appears '10' times
-The word 'easier' appears '20' times
-The word 'economic' appears '10' times
-The word 'economics,' appears '10' times
-The word 'economy,' appears '20' times
-The word 'education,' appears '20' times
-The word 'educational' appears '10' times
-The word 'effects' appears '10' times
-The word 'efficiency' appears '10' times
-The word 'embrace' appears '10' times
-The word 'empowered' appears '10' times
-The word 'enabled' appears '10' times
-The word 'enabling' appears '10' times
-The word 'engage' appears '10' times
-The word 'entertainment.' appears '10' times
-The word 'eroding' appears '10' times
-The word 'essay,' appears '10' times
-The word 'essential' appears '10' times
-The word 'ethical,' appears '10' times
-The word 'even' appears '10' times
-The word 'ever' appears '10' times
-The word 'evolution' appears '10' times
-The word 'exacerbating' appears '10' times
-The word 'examining' appears '10' times
-The word 'exchange' appears '10' times
-The word 'experience' appears '10' times
-The word 'experience,' appears '10' times
-The word 'experiences' appears '10' times
-The word 'experiences,' appears '10' times
-The word 'explore' appears '10' times
-The word 'express' appears '10' times
-The word 'facilitated' appears '10' times
-The word 'family,' appears '10' times
-The word 'fiction.' appears '10' times
-The word 'field' appears '20' times
-The word 'fitness' appears '10' times
-The word 'flexibility' appears '10' times
-The word 'for' appears '40' times
-The word 'friends' appears '10' times
-The word 'from' appears '40' times
-The word 'further' appears '10' times
-The word 'geographical' appears '10' times
-The word 'gig' appears '10' times
-The word 'global' appears '20' times
-The word 'globalization' appears '10' times
-The word 'goods' appears '10' times
-The word 'greater' appears '10' times
-The word 'had' appears '30' times
-The word 'harassment.' appears '10' times
-The word 'harness' appears '10' times
-The word 'has' appears '210' times
-The word 'hate' appears '10' times
-The word 'have' appears '180' times
-The word 'health' appears '30' times
-The word 'healthcare' appears '30' times
-The word 'healthcare,' appears '20' times
-The word 'homes.' appears '10' times
-The word 'homogenization' appears '10' times
-The word 'how' appears '10' times
-The word 'human' appears '10' times
-The word 'humanity.' appears '10' times
-The word 'ideas' appears '10' times
-The word 'ideas,' appears '10' times
-The word 'imaging,' appears '10' times
-The word 'immersive' appears '10' times
-The word 'impact' appears '50' times
-The word 'impacts' appears '10' times
-The word 'implications' appears '10' times
-The word 'in' appears '100' times
-The word 'income' appears '10' times
-The word 'increased' appears '20' times
-The word 'independence' appears '10' times
-The word 'individuals' appears '30' times
-The word 'industries,' appears '10' times
-The word 'industry,' appears '10' times
-The word 'inequality.' appears '10' times
-The word 'information' appears '10' times
-The word 'information,' appears '10' times
-The word 'instantaneously' appears '10' times
-The word 'integral' appears '10' times
-The word 'integrate' appears '10' times
-The word 'intelligence' appears '10' times
-The word 'interact' appears '30' times
-The word 'interactive' appears '10' times
-The word 'interconnectedness' appears '10' times
-The word 'internet' appears '40' times
-The word 'into' appears '10' times
-The word 'invention' appears '20' times
-The word 'is' appears '40' times
-The word 'isolation.' appears '10' times
-The word 'issues' appears '10' times
-The word 'it' appears '50' times
-The word 'its' appears '30' times
-The word 'job' appears '20' times
-The word 'jobs' appears '20' times
-The word 'knowledge.' appears '10' times
-The word 'labor' appears '20' times
-The word 'learn' appears '10' times
-The word 'learn,' appears '10' times
-The word 'learning' appears '10' times
-The word 'learning.' appears '10' times
-The word 'lectures,' appears '10' times
-The word 'led' appears '60' times
-The word 'like' appears '60' times
-The word 'limited' appears '10' times
-The word 'limited.' appears '10' times
-The word 'linked' appears '10' times
-The word 'listen' appears '10' times
-The word 'literature.' appears '10' times
-The word 'live,' appears '10' times
-The word 'live.' appears '10' times
-The word 'lives,' appears '10' times
-The word 'loss' appears '10' times
-The word 'lower' appears '10' times
-The word 'made' appears '40' times
-The word 'many' appears '10' times
-The word 'marketed' appears '10' times
-The word 'media' appears '40' times
-The word 'medical' appears '20' times
-The word 'metrics' appears '10' times
-The word 'misinformation,' appears '10' times
-The word 'misinformation.' appears '10' times
-The word 'mobile' appears '10' times
-The word 'modern' appears '10' times
-The word 'monitor' appears '10' times
-The word 'more' appears '10' times
-The word 'most' appears '10' times
-The word 'movies,' appears '10' times
-The word 'multifaceted' appears '20' times
-The word 'music,' appears '10' times
-The word 'narratives' appears '10' times
-The word 'nature' appears '20' times
-The word 'necessary' appears '10' times
-The word 'new' appears '10' times
-The word 'not' appears '10' times
-The word 'now' appears '10' times
-The word 'numerous' appears '10' times
-The word 'obesity,' appears '10' times
-The word 'of' appears '360' times
-The word 'offering' appears '10' times
-The word 'on' appears '110' times
-The word 'on-demand,' appears '10' times
-The word 'one' appears '20' times
-The word 'online' appears '40' times
-The word 'opened' appears '10' times
-The word 'operate' appears '10' times
-The word 'opportunities,' appears '10' times
-The word 'or' appears '10' times
-The word 'other' appears '10' times
-The word 'our' appears '10' times
-The word 'ourselves' appears '10' times
-The word 'outsourcing' appears '10' times
-The word 'part' appears '10' times
-The word 'participate' appears '10' times
-The word 'particularly' appears '10' times
-The word 'parts' appears '10' times
-The word 'past,' appears '10' times
-The word 'patient' appears '20' times
-The word 'patients' appears '10' times
-The word 'people' appears '20' times
-The word 'personalized' appears '10' times
-The word 'platforms' appears '80' times
-The word 'platforms,' appears '10' times
-The word 'played' appears '10' times
-The word 'pose' appears '10' times
-The word 'possibilities' appears '10' times
-The word 'possible' appears '10' times
-The word 'power' appears '10' times
-The word 'precision.' appears '10' times
-The word 'press' appears '10' times
-The word 'printing' appears '10' times
-The word 'privacy' appears '10' times
-The word 'privacy,' appears '10' times
-The word 'productivity' appears '10' times
-The word 'profound' appears '30' times
-The word 'progress.' appears '10' times
-The word 'proliferation' appears '20' times
-The word 'protections.' appears '10' times
-The word 'providers' appears '10' times
-The word 'questions' appears '10' times
-The word 'raised' appears '40' times
-The word 'raising' appears '10' times
-The word 'real-time.' appears '10' times
-The word 'reality' appears '20' times
-The word 'realm' appears '20' times
-The word 'reliable' appears '10' times
-The word 'remains' appears '10' times
-The word 'remotely,' appears '10' times
-The word 'reshaped' appears '20' times
-The word 'resources' appears '10' times
-The word 'resulted' appears '10' times
-The word 'retail' appears '10' times
-The word 'retail.' appears '10' times
-The word 'revolution,' appears '10' times
-The word 'revolutionized' appears '30' times
-The word 'rise' appears '30' times
-The word 'risks' appears '10' times
-The word 'role' appears '10' times
-The word 'rural' appears '10' times
-The word 'scale.' appears '10' times
-The word 'scans,' appears '10' times
-The word 'screen' appears '20' times
-The word 'security' appears '10' times
-The word 'security.' appears '10' times
-The word 'sensitive' appears '10' times
-The word 'services' appears '30' times
-The word 'shaping' appears '20' times
-The word 'share' appears '20' times
-The word 'sharing' appears '10' times
-The word 'shift' appears '10' times
-The word 'shop' appears '10' times
-The word 'shows,' appears '10' times
-The word 'significant' appears '30' times
-The word 'sleep' appears '10' times
-The word 'smartphones,' appears '10' times
-The word 'social' appears '20' times
-The word 'social,' appears '10' times
-The word 'society' appears '20' times
-The word 'society,' appears '30' times
-The word 'society.' appears '10' times
-The word 'spans.' appears '10' times
-The word 'speech,' appears '10' times
-The word 'spread' appears '20' times
-The word 'stay' appears '10' times
-The word 'stores' appears '10' times
-The word 'storytelling' appears '10' times
-The word 'streaming' appears '10' times
-The word 'strive' appears '10' times
-The word 'students' appears '30' times
-The word 'such' appears '20' times
-The word 'tablets,' appears '10' times
-The word 'take' appears '10' times
-The word 'talents,' appears '10' times
-The word 'teachers.' appears '10' times
-The word 'technological' appears '20' times
-The word 'technologies' appears '10' times
-The word 'technology' appears '150' times
-The word 'technology,' appears '10' times
-The word 'television' appears '10' times
-The word 'text' appears '10' times
-The word 'than' appears '10' times
-The word 'the' appears '500' times
-The word 'their' appears '40' times
-The word 'they' appears '30' times
-The word 'this' appears '50' times
-The word 'time' appears '20' times
-The word 'to' appears '300' times
-The word 'tools' appears '10' times
-The word 'top' appears '10' times
-The word 'topic' appears '10' times
-The word 'tracking' appears '10' times
-The word 'traditional' appears '10' times
-The word 'transformed' appears '40' times
-The word 'treatment,' appears '10' times
-The word 'tutorials' appears '10' times
-The word 'underserved' appears '10' times
-The word 'universities' appears '10' times
-The word 'up' appears '10' times
-The word 'us' appears '10' times
-The word 'used.' appears '10' times
-The word 'values' appears '10' times
-The word 'various' appears '10' times
-The word 'vast' appears '10' times
-The word 'virtual' appears '10' times
-The word 'was' appears '10' times
-The word 'watch' appears '10' times
-The word 'way' appears '110' times
-The word 'we' appears '110' times
-The word 'wearable' appears '10' times
-The word 'wellness' appears '10' times
-The word 'wheel' appears '10' times
-The word 'where' appears '10' times
-The word 'which' appears '10' times
-The word 'who' appears '10' times
-The word 'widespread' appears '10' times
-The word 'will' appears '10' times
-The word 'with' appears '120' times
-The word 'words' appears '10' times
-The word 'work,' appears '30' times
-The word 'work.' appears '10' times
-The word 'workers' appears '10' times
-The word 'world' appears '10' times
-The word 'world.' appears '10' times
-The word 'worldwide.' appears '10' times
-Time taken: 23187 microseconds
+"The: 200
+5000: 200
+Academy,: 200
+Additionally,: 400
+Advances: 200
+Airbnb,: 200
+Amazon: 200
+As: 200
+Automation: 200
+CT: 200
+Certainly!: 200
+Classroom,: 200
+Communication: 200
+Coursera: 200
+Culture: 200
+Digital: 400
+E-commerce: 200
+Economy: 200
+Education: 200
+Facebook,: 200
+Finally,: 200
+From: 200
+Furthermore,: 400
+Google: 200
+Healthcare: 200
+Here's: 200
+However,: 1200
+Hulu,: 200
+Impact: 400
+In: 1200
+Instagram: 200
+Khan: 200
+MRI: 200
+Moreover,: 400
+Netflix,: 200
+One: 200
+Platforms: 200
+Snapchat: 200
+Social: 400
+Society: 200
+Society":: 200
+Spotify: 200
+TaskRabbit,: 200
+Technology: 600
+Telemedicine: 200
+The: 1400
+These: 200
+TikTok,: 200
+Twitter,: 200
+Uber,: 200
+Western: 200
+While: 200
+YouTube,: 200
+a: 1600
+about: 1200
+access: 1000
+accessible: 200
+accuracy: 200
+acquire: 200
+across: 200
+adopted: 200
+adoption: 200
+advancements: 600
+advent: 200
+all: 200
+allowing: 1000
+along: 200
+also: 2000
+among: 400
+an: 200
+and: 13400
+another.: 400
+anytime,: 200
+anywhere.: 200
+apps: 200
+are: 400
+areas: 200
+around: 200
+art: 200
+artificial: 200
+as: 800
+attention: 200
+audience.: 200
+autonomy,: 200
+barriers,: 200
+become: 200
+been: 200
+before,: 200
+behavior: 200
+being: 200
+benefits: 200
+benefits,: 200
+betterment: 200
+between: 200
+blurring: 200
+boundaries: 200
+brick-and-mortar: 200
+brings: 200
+brought: 200
+business.: 200
+businesses: 200
+but: 800
+by: 400
+can: 200
+care.: 200
+challenge,: 200
+challenges: 400
+changed: 400
+changes: 200
+children's: 200
+children,: 200
+classroom: 200
+collaborate: 200
+collaboration: 200
+collection: 200
+comfort: 200
+communicate: 400
+communicate,: 200
+communication: 400
+communication,: 400
+communication.: 200
+concerns: 600
+concerns.: 200
+conclusion,: 200
+conditions: 200
+conduct: 200
+confidentiality: 200
+connect: 200
+connected,: 200
+connectivity: 200
+consider: 200
+consult: 200
+consume: 400
+consumer: 200
+consumers: 200
+content: 400
+continue: 200
+control: 200
+costs,: 200
+countries: 200
+courses,: 200
+create: 200
+creation,: 200
+creatively.: 200
+crucial: 200
+cultural: 200
+culture: 400
+culture,: 200
+culture.: 200
+cyberbullying,: 200
+data: 400
+decline: 200
+democratization: 200
+democratized: 200
+development: 200
+devices: 600
+devices,: 200
+diagnose: 200
+diagnosis,: 200
+different: 200
+digital: 400
+diseases: 200
+disparities.: 200
+displacement: 200
+distances.: 200
+distributed.: 200
+disturbances,: 200
+divide: 200
+dominant: 200
+driving: 200
+easier: 400
+economic: 200
+economics,: 200
+economy,: 400
+education,: 400
+educational: 200
+effects: 200
+efficiency: 200
+embrace: 200
+empowered: 200
+enabled: 200
+enabling: 200
+engage: 200
+entertainment.: 200
+eroding: 200
+essay,: 200
+essential: 200
+ethical,: 200
+even: 200
+ever: 200
+evolution: 200
+exacerbating: 200
+examining: 200
+exchange: 200
+experience: 200
+experience,: 200
+experiences: 200
+experiences,: 200
+explore: 200
+express: 200
+facilitated: 200
+family,: 200
+fiction.: 200
+field: 400
+fitness: 200
+flexibility: 200
+for: 800
+friends: 200
+from: 800
+further: 200
+geographical: 200
+gig: 200
+global: 400
+globalization: 200
+goods: 200
+greater: 200
+had: 600
+harassment.: 200
+harness: 200
+has: 4200
+hate: 200
+have: 3600
+health: 600
+healthcare: 600
+healthcare,: 400
+homes.: 200
+homogenization: 200
+how: 200
+human: 200
+humanity.: 200
+ideas: 200
+ideas,: 200
+imaging,: 200
+immersive: 200
+impact: 1000
+impacts: 200
+implications: 200
+in: 2000
+income: 200
+increased: 400
+independence: 200
+individuals: 600
+industries,: 200
+industry,: 200
+inequality.: 200
+information: 200
+information,: 200
+instantaneously: 200
+integral: 200
+integrate: 200
+intelligence: 200
+interact: 600
+interactive: 200
+interconnectedness: 200
+internet: 800
+into: 200
+invention: 400
+is: 800
+isolation.: 200
+issues: 200
+it: 1000
+its: 600
+job: 400
+jobs: 400
+knowledge.: 200
+labor: 400
+learn: 200
+learn,: 200
+learning: 200
+learning.: 200
+lectures,: 200
+led: 1200
+like: 1200
+limited: 200
+limited.: 200
+linked: 200
+listen: 200
+literature.: 200
+live,: 200
+live.: 200
+lives,: 200
+loss: 200
+lower: 200
+made: 800
+many: 200
+marketed: 200
+media: 800
+medical: 400
+metrics: 200
+misinformation,: 200
+misinformation.: 200
+mobile: 200
+modern: 200
+monitor: 200
+more: 200
+most: 200
+movies,: 200
+multifaceted: 400
+music,: 200
+narratives: 200
+nature: 400
+necessary: 200
+new: 200
+not: 200
+now: 200
+numerous: 200
+obesity,: 200
+of: 7200
+offering: 200
+on: 2200
+on-demand,: 200
+one: 400
+online: 800
+opened: 200
+operate: 200
+opportunities,: 200
+or: 200
+other: 200
+our: 200
+ourselves: 200
+outsourcing: 200
+part: 200
+participate: 200
+particularly: 200
+parts: 200
+past,: 200
+patient: 400
+patients: 200
+people: 400
+personalized: 200
+platforms: 1600
+platforms,: 200
+played: 200
+pose: 200
+possibilities: 200
+possible: 200
+power: 200
+precision.: 200
+press: 200
+printing: 200
+privacy: 200
+privacy,: 200
+productivity: 200
+profound: 600
+progress.: 200
+proliferation: 400
+protections.: 200
+providers: 200
+questions: 200
+raised: 800
+raising: 200
+real-time.: 200
+reality: 400
+realm: 400
+reliable: 200
+remains: 200
+remotely,: 200
+reshaped: 400
+resources: 200
+resulted: 200
+retail: 200
+retail.: 200
+revolution,: 200
+revolutionized: 600
+rise: 600
+risks: 200
+role: 200
+rural: 200
+scale.: 200
+scans,: 200
+screen: 400
+security: 200
+security.: 200
+sensitive: 200
+services: 600
+shaping: 400
+share: 400
+sharing: 200
+shift: 200
+shop: 200
+shows,: 200
+significant: 600
+sleep: 200
+smartphones,: 200
+social: 400
+social,: 200
+society: 400
+society,: 600
+society.: 200
+spans.: 200
+speech,: 200
+spread: 400
+stay: 200
+stores: 200
+storytelling: 200
+streaming: 200
+strive: 200
+students: 600
+such: 400
+tablets,: 200
+take: 200
+talents,: 200
+teachers.: 200
+technological: 400
+technologies: 200
+technology: 3000
+technology,: 200
+television: 200
+text: 200
+than: 200
+the: 10000
+their: 800
+they: 600
+this: 1000
+time: 400
+to: 6000
+tools: 200
+top: 200
+topic: 200
+tracking: 200
+traditional: 200
+transformed: 800
+treatment,: 200
+tutorials: 200
+underserved: 200
+universities: 200
+up: 200
+us: 200
+used.: 200
+values: 200
+various: 200
+vast: 200
+virtual: 200
+was: 200
+watch: 200
+way: 2200
+we: 2200
+wearable: 200
+wellness: 200
+wheel: 200
+where: 200
+which: 200
+who: 200
+widespread: 200
+will: 200
+with: 2400
+words: 200
+work,: 600
+work.: 200
+workers: 200
+world: 200
+world.: 200
+worldwide.: 200
+Time taken: 527570 microseconds

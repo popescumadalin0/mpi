@@ -1,80 +1,80 @@
-The word 'Access' appears '1' times
-The word 'If' appears '2' times
-The word 'Many' appears '1' times
-The word 'URL' appears '1' times
-The word 'Use' appears '1' times
-The word 'When' appears '1' times
-The word 'Wikipedia' appears '5' times
-The word 'Wikipedia,' appears '1' times
-The word 'a' appears '5' times
-The word 'an' appears '2' times
-The word 'and' appears '3' times
-The word 'any' appears '1' times
-The word 'appropriate' appears '1' times
-The word 'archived' appears '3' times
-The word 'are' appears '1' times
-The word 'ask' appears '1' times
-The word 'by' appears '1' times
-The word 'can' appears '1' times
-The word 'cite' appears '3' times
-The word 'citing' appears '1' times
-The word 'date' appears '1' times
-The word 'date.' appears '1' times
-The word 'does' appears '1' times
-The word 'entries.' appears '1' times
-The word 'entry' appears '1' times
-The word 'for' appears '3' times
-The word 'format' appears '1' times
-The word 'from' appears '1' times
-The word 'history”' appears '1' times
-The word 'in' appears '1' times
-The word 'include' appears '1' times
-The word 'including' appears '1' times
-The word 'information' appears '1' times
-The word 'is' appears '1' times
-The word 'it' appears '1' times
-The word 'links' appears '1' times
-The word 'making' appears '1' times
-The word 'not' appears '1' times
-The word 'of' appears '3' times
-The word 'on' appears '1' times
-The word 'other' appears '1' times
-The word 'page' appears '1' times
-The word 'page,' appears '2' times
-The word 'pages' appears '1' times
-The word 'paper.' appears '1' times
-The word 'permanent' appears '1' times
-The word 'prefer' appears '1' times
-The word 'primary' appears '1' times
-The word 'professor' appears '1' times
-The word 'professors' appears '1' times
-The word 'provide' appears '1' times
-The word 'readers' appears '1' times
-The word 'reports' appears '1' times
-The word 'retrieval' appears '1' times
-The word 'retrieve' appears '1' times
-The word 'secondary' appears '1' times
-The word 'selecting' appears '1' times
-The word 'so' appears '1' times
-The word 'source' appears '1' times
-The word 'source.' appears '1' times
-The word 'sources,' appears '1' times
-The word 'sources.' appears '1' times
-The word 'student,' appears '1' times
-The word 'students' appears '1' times
-The word 'that' appears '2' times
-The word 'the' appears '7' times
-The word 'then' appears '1' times
-The word 'this' appears '1' times
-The word 'time' appears '1' times
-The word 'to' appears '3' times
-The word 'use' appears '1' times
-The word 'used.' appears '2' times
-The word 'version' appears '4' times
-The word 'versions' appears '1' times
-The word 'whether' appears '1' times
-The word 'wiki' appears '2' times
-The word 'you' appears '4' times
-The word 'your' appears '2' times
-The word '“View' appears '1' times
-Time taken: 924 microseconds
+Access: 1
+If: 2
+Many: 1
+URL: 1
+Use: 1
+When: 1
+Wikipedia: 5
+Wikipedia,: 1
+a: 5
+an: 2
+and: 3
+any: 1
+appropriate: 1
+archived: 3
+are: 1
+ask: 1
+by: 1
+can: 1
+cite: 3
+citing: 1
+date: 1
+date.: 1
+does: 1
+entries.: 1
+entry: 1
+for: 3
+format: 1
+from: 1
+history”: 1
+in: 1
+include: 1
+including: 1
+information: 1
+is: 1
+it: 1
+links: 1
+making: 1
+not: 1
+of: 3
+on: 1
+other: 1
+page: 1
+page,: 2
+pages: 1
+paper.: 1
+permanent: 1
+prefer: 1
+primary: 1
+professor: 1
+professors: 1
+provide: 1
+readers: 1
+reports: 1
+retrieval: 1
+retrieve: 1
+secondary: 1
+selecting: 1
+so: 1
+source: 1
+source.: 1
+sources,: 1
+sources.: 1
+student,: 1
+students: 1
+that: 2
+the: 7
+then: 1
+this: 1
+time: 1
+to: 3
+use: 1
+used.: 2
+version: 4
+versions: 1
+whether: 1
+wiki: 2
+you: 4
+your: 2
+“View: 1
+Time taken: 1826 microseconds

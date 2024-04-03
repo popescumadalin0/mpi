@@ -3,8 +3,8 @@
 #include <string>
 #include <fstream>
 
-#define INPUT "large_input.txt"
-#define OUTPUT "large_output.txt"
+#define INPUT "input.txt"
+#define OUTPUT "output.txt"
 
 using namespace std;
 
@@ -23,7 +23,7 @@ int main()
 
 	for (const auto& pair : freq)
 	{
-		fout << "The word '" << pair.first << "' appears '" << pair.second << "' times\n";
+		fout << pair.first << ": " << pair.second << "\n";
 	}
 
 	const auto stop = chrono::high_resolution_clock::now();
