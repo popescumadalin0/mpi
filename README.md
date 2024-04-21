@@ -1,23 +1,60 @@
-**Topicul:**
+<h1 align="center"> Procesarea de text (en. Text Processing) </h1> <br>
+<p align="center">
+</p>
 
-Procesarea de text (en. Text Processing)
+## Table of Contents
 
-Numărarea frecvenței cuvintelor dintr-un fișier text mare pot fi paralelizate prin procesarea diferitelor părți ale fișierului pe fire sau procesoare separate.
+- [Introduction](#introduction)
+- [Programming language](#programming_language)
+- [Framework](#framework)
+- [Machine specs](#machine_specs)
+- [Sequential execution times](#sequential-execution-times)
 
-Limbajele de programare utilizate:
--	C++
+## Introduction
 
-Sistemele si/sau framework-urile folosite:
--	STL
+Counting the frequency of words in a large text file can be parallelized by processing different parts of the file on separate threads or processors.
 
-Informații despre mașinile pe care am rulat codul:
-- Sistemul de operare:  Windows 11 Pro;
-- Procesorul (CPU):  AMD Ryzen 7 4800H;
-- Memoria RAM: 16.0 GB ;
-- Spațiul de stocare: SSD 1TB;
-- Compilatorul sau mediul de dezvoltare utilizat: Visual Studio 2022
+## Programming language
 
-Rezultatele experimentale:
+* C++
+  
+## Framework
+
+* MPI + STL
+
+## Machine specs
+
+* OS:  Windows 11 Pro;
+* CPU:  AMD Ryzen 7 4800H;
+* RAM: 16.0 GB ;
+* Storage: SSD 1TB;
+* Compiler: Visual Studio 2022
+
+## Sequential execution times
+
+-10k words: 1911 microseconds
+
+-64k words: 3222 microseconds
+
+-100k words: 2716 microseconds
+
+-500k words: 6279 microseconds
+
+-1M words: 13604 microseconds
+
+## Parallel execution times
+
+-10k words: 14950 microseconds
+
+-64k words: 14003 microseconds
+
+-100k words: 14474 microseconds
+
+-500k words: 30764 microseconds
+
+-1M words: 58858 microseconds
+
+Results:
 
 Input:
 •	Use this format to cite any wiki page, including pages for Wikipedia entries.
@@ -29,17 +66,3 @@ Input:
 ![image](https://github.com/popescumadalin0/mpi/assets/89019128/cb8471a4-b5ac-4c6a-a1a9-0d08e3efa84e)
 
 ![image](https://github.com/popescumadalin0/mpi/assets/89019128/9b88cd80-aa49-4a12-84cd-2acde9cb10ba)
-
-Testare:
-
-Secvențial:
-
-Pentru un input de până în 200 de cuvinte avem un timp de execuție de 924 microsecunde.
-
-Pentru un input de până în 50000 de cuvinte avem un timp de execuție de 23187 microsecunde.
-
-Pentru un input de până în 1000000 de cuvinte avem un timp de execuție de 441346 microsecunde.
-
-Paralel:
-
-//todo
