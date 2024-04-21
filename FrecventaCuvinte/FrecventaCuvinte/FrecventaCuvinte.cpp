@@ -26,7 +26,6 @@ int main()
 		cout << "Could not open the file: " << INPUT << "\n";
 		return -1;
 	}
-
 	while (fin >> input)
 	{
 		freq[input]++;

@@ -12,13 +12,13 @@
 using namespace std;
 using namespace std::chrono;
 
-const int MAX_WORDS = 8000;
-const int MAX_WORD_LENGTH = 50;
+constexpr int max_words = 8000;
+constexpr int max_word_length = 50;
 
 ifstream fin(INPUT);
 ofstream fout(OUTPUT);
 
-int main(int argc, char** argv)
+int main(const int argc, char** argv)
 {
 	const auto start_time = high_resolution_clock::now();
 
@@ -35,49 +35,31 @@ int main(int argc, char** argv)
 		return -1;
 	}
 
-	char delimiters[162] = {};
-	int index = 0;
-	for (int ascii_character = 32; ascii_character < 256; ++ascii_character)
+	string word;
+	int counter = 0;
+	int rank_freq_words[max_words] = { 0 };
+	char rank_words[max_words][max_word_length] = {};
+	while (fin >> word)
 	{
-		if (!isalnum(ascii_character))
+		if (counter++ % size == rank)
 		{
-			delimiters[index++] = static_cast<char>(ascii_character);
-		}
-	}
-
-	char local_words[MAX_WORDS][MAX_WORD_LENGTH] = {};
-	int local_word_count[MAX_WORDS] = { 0 };
-	string line;
-	int line_count = 0;
-	while (getline(fin, line))
-	{
-		if (line_count % size == rank)
-		{
-			const char* word = strtok(line.data(), delimiters);
-			while (word != nullptr)
+			int hash = 0;
+			for (int i = 0; word[i] != '\0'; ++i)
 			{
-				int hash = 0;
-				for (int i = 0; word[i] != '\0'; ++i)
-				{
-					hash = (hash * 2 + word[i]) % 997;
-				}
-
-				++local_word_count[hash];
-				strcpy(local_words[hash], word);
-
-				word = strtok(nullptr, delimiters);
+				hash = (hash * 2 + word[i]) % 997;
 			}
-		}
-		line_count++;
-	}
 
+			strcpy(rank_words[hash], word.data());
+			++rank_freq_words[hash];
+		}
+	}
 	fin.close();
 
-	int global_word_count[MAX_WORDS] = { 0 };
-	MPI_Allreduce(local_word_count, global_word_count, MAX_WORDS, MPI_INT, MPI_SUM, MPI_COMM_WORLD);
+	int freq_words[max_words] = { 0 };
+	MPI_Allreduce(rank_freq_words, freq_words, max_words, MPI_INT, MPI_SUM, MPI_COMM_WORLD);
 
-	char all_words[MAX_WORDS][MAX_WORD_LENGTH] = {};
-	MPI_Allreduce(local_words, all_words, MAX_WORDS * MAX_WORD_LENGTH, MPI_CHAR, MPI_MAX, MPI_COMM_WORLD);
+	char words[max_words][max_word_length] = {};
+	MPI_Allreduce(rank_words, words, max_words * max_word_length, MPI_CHAR, MPI_MAX, MPI_COMM_WORLD);
 
 	if (rank == 0)
 	{
@@ -87,11 +69,11 @@ int main(int argc, char** argv)
 			return -1;
 		}
 
-		for (int i = 0; i < MAX_WORDS; ++i)
+		for (int i = 0; i < max_words; ++i)
 		{
-			if (global_word_count[i] > 0)
+			if (freq_words[i] > 0)
 			{
-				fout << all_words[i] << " : " << global_word_count[i] << "\n";
+				fout << words[i] << " : " << freq_words[i] << "\n";
 			}
 		}
 
