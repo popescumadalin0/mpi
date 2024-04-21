@@ -9,6 +9,7 @@
 - [Framework](#framework)
 - [Machine specs](#machine_specs)
 - [Sequential execution times](#sequential-execution-times)
+- [Parallel execution times](#parallel-execution-times)
 
 ## Introduction
 
