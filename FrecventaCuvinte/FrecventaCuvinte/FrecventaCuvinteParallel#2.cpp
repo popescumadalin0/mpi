@@ -39,7 +39,7 @@ int main()
 		return -1;
 	}
 
-	for_each(execution::par, freq.begin(), freq.end(), [](const pair<const string, int>& val)
+	for_each(execution::par_unseq, freq.begin(), freq.end(), [](const pair<const string, int>& val)
 		{
 			fout << val.first << ": " << val.second << "\n";
 		});

@@ -35,5 +35,8 @@
     <Text Include="parallel_output.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="parallel_output#2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
