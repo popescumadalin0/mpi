@@ -132,6 +132,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="FrecventaCuvinte.cpp" />
+    <ClCompile Include="FrecventaCuvinteParallel#2.cpp" />
     <ClCompile Include="FrecventaCuvinteParallel.cpp" />
   </ItemGroup>
   <ItemGroup>

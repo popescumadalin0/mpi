@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>
 #include <chrono>
@@ -91,4 +91,4 @@ int main(const int argc, char** argv)
 	MPI_Barrier(MPI_COMM_WORLD);
 	MPI_Finalize();
 	return 0;
-}
+}*/
